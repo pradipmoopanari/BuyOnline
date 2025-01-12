@@ -1,0 +1,6 @@
+@BuyOnline.Services.AuthAPI_HostAddress = http://localhost:5260
+
+GET {{BuyOnline.Services.AuthAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
